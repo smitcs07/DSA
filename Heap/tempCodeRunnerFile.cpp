@@ -1,0 +1,1 @@
+  obj.insert(30);
